@@ -1,9 +1,7 @@
-README
-======
+Getting it started. 
 
-
-
-TODO
-====
-1. hugon.js - how does it work ? pros/cons ?
-
+1. sudo apt-get update
+2. sudo apt-get install nodejs npm
+3. npm install forever
+4. ./start : to start
+5. ./stop to stop
